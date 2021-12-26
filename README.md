@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 ![images](clip-path.png)
-## Con Bootstrapö 5.1 
+## Con Bootstrap 5.1 
 * app.component.html
  ```
 <app-nav></app-nav>
