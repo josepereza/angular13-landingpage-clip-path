@@ -1,0 +1,6 @@
+.barra{
+    display: flex !important;
+    width: 100%;
+    justify-content: space-around !important;
+    justify-items: flex-end !important;
+}
