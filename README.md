@@ -2,6 +2,32 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 ![images](clip-path.png)
+## Con Bootstrapö 5.1 
+* app.component.html
+ ```
+<app-nav></app-nav>
+<section class="main">
+
+
+</section>
+<div class="row">
+  <div class="col-md-6 p-5">
+    <h2 style="font-size: 3.2em;">Starter projects <span
+        style="color:green;font-size: 3em;font-weight:700px; "> Acer </span></h2>
+    <p>Ready to beyond the starter with Check </p>
+    <ul class="icon-list">
+      <li><a href="https://github.com/twbs/bootstrap-npm-starter" rel="noopener" target="_blank">Bootstrap npm
+          starter</a></li>
+      <li class="text-muted">Bootstrap Parcel starter (coming soon!)</li>
+    </ul>
+  </div>
+
+  <div class="col-md-6">
+
+    <img src="../assets/images/acer1.png" width="100%" alt="">
+  </div>
+</div>
+ ```
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
